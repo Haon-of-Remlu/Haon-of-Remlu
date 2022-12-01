@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haon-of-Remlu
 - 👀 I’m interested in Mastering Coding, Clinical Psychology, and Science-Fiction
-- 🌱 I’m currently learning Java, HTML, and CSS
+- 🌱 I’m currently learning Java, HTML, and CSS (I am having a lot of trouble with classes)
 - 💞️ I’m looking to collaborate on anything, willing to learn and grow
 - 📫 How to reach me is on here, my profile, or my email. haonofremlu@gmail.com
 
